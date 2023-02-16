@@ -4,7 +4,6 @@ def abc():
     wins = num[0]
     draws = num[1]
     wins *= 2
-    draws *= 1
     total = wins + draws
     print(total)
 abc()
